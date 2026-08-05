@@ -20,6 +20,10 @@ Understand and build a complete TTS training pipeline.
 
 - built the project as a reproducible notebook workflow that can be resumed from checkpoints and extended towards inference.
 
+## Training Notebook
+
+Kaggle (public): https://www.kaggle.com/code/iam4tart/glowtts-from-scratch-train-ipynb
+
 ## Stack
 
 - Model: GlowTTS
